@@ -1,1 +1,2 @@
-feature2 nea file added
+feature2 new file added
+2nd line added
